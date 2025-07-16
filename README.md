@@ -3,7 +3,8 @@
 
 ## Live Site
 https://artifacts-app.herokuapp.com/
-![Home Page](https://i.imgur.com/uL7kYdV.png)
+![Home Page](https://i.imgur.com/wHlOUMk.png)
+
  
 ## Technologies Used
 -   PostgreSQL
